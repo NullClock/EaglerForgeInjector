@@ -22,7 +22,7 @@ const modapi_guikit = "(" + (() => {
            {splash_msg}
         </h4>
         <h5>
-          Warning: installing malicious mods can delete your worlds, ip-grab you, or even download more serious malware onto your computer. The EaglerForge developers are not liable for any damage caused by the use of EaglerForge and its related tools.
+          Warning: installing malicious mods can delete your worlds, ip-grab you, or even download more serious malware onto your computer. The EaglerForge developers are not liable for any damage caused by the use of EaglerForge and its related tools. By using EaglerForge, you agree that you are responsible for all of your actions and our developers are not liable for any damage caused by the software or its user-made modifications.
         </h5>
       </header>
 
